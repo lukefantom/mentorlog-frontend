@@ -6,7 +6,7 @@ Personal development application, built during a 1-week project in a team of 4 w
 
 ![homepage](https://github.com/lukefantom/mentorlog-frontend/blob/main/public/mentor-homepage.png)
 
-A full-stack app aimed to provide more structure to meetings between Bootcampers and their Mentors. I primarily focused on the back-end, creating a restful API built in Node.js, providing access to our database hosted through Heroku using PostgreSQL. We constructed a clean and modern front- end using React and create-react-app, implementing modules such as Firebase and Luxon.
+A full-stack app aimed to provide more structure to meetings between Bootcampers and their Mentors. I primarily focused on the back-end, creating a restful API built in Node.js, providing access to our database hosted through Heroku using PostgreSQL. We constructed a clean and modern front- end using React and create-react-app, implementing modules such as Luxon to handle the date/time.
 
 ## The brief
 
@@ -20,6 +20,13 @@ The brief we were given was to build an application which enhances the School of
 - Provides structure to the meetings with a clear agenda.
 - Future ambition - Also to give the coaches visibility of if the meetings are taking place on a regular basis and how they are going.
 
+## Front End Tech Stack
+
+- React - initialised with Create React App
+- Luxon
+- Material UI
+- React Router DOM
+- React Testing Library
 
 ## Log new meeting notes
 ![new-meeting](https://github.com/lukefantom/mentorlog-frontend/blob/main/public/mentor-newmeeting.png)
