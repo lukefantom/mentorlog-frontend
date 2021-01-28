@@ -1,70 +1,19 @@
-# Project Week Front-End
+# My Mentor Log
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Week 8 - 1 Week Group Project
 
-## Available Scripts
+Personal development application, built during a 1-week project in a team of 4 where users are able to keep track of mentor meetings using a custom-built notes application. 
 
-In the project directory, you can run:
+A full-stack app aimed to provide more structure to meetings between Bootcampers and their Mentors. I primarily focused on the back-end, creating a restful API built in Node.js, providing access to our database hosted through Heroku using PostgreSQL. We constructed a clean and modern front- end using React and create-react-app, implementing modules such as Firebase and Luxon.
 
-### `npm start`
+## The brief
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+The brief we were given was to build an application which enhances the School of Code mentoring experience. Our user research found there is a lack of structure with regards to meteing with mentors, across multiple plaforms. A common problem was the inconsistency in organising meetings and a need for some more structure around the entire process, where all three parties (mentors, coaches and students) have more visibility.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## Our Solution
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- Bootcamper journal to help the student to reflect on and articulate their SoC experience, so that they are able to have more meaningful discussions with their mentors.
+- Give clear discussion points to help them evaluate how they are doing, so that they can get help and advice during their regular sessions.
+- A place to keep track of meeting notes, goals, ideas and aspirations.
+- Provides structure to the meetings with a clear agenda.
+- Future ambition - Also to give the coaches visibility of if the meetings are taking place on a regular basis and how they are going.
